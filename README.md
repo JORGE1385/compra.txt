@@ -1,0 +1,2 @@
+# compra.txt
+compras pendientes
